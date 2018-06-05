@@ -9,7 +9,7 @@
             "email": "biswas.rajat811@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {
         "dompdf/dompdf":"*"
     }
