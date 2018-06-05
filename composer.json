@@ -1,8 +1,6 @@
 {
     "name": "rajatcomposer/my-first-composer",
-    "description": "Trying to familiar with composer. And its very interesting concept I had ever seen.",
-    "type": "project",
-    "license": "proprietary",
+    "description": "My first Composer project",
     "authors": [
         {
             "name": "Rajat Biswas",
@@ -11,5 +9,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
+
     }
 }
