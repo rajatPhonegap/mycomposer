@@ -1,10 +1,11 @@
+
 {
-    "name": "rajatcomposer/my-first-composer",
+    "name": "johnjohngc/mycomposer",
     "description": "My first Composer project",
     "authors": [
         {
-            "name": "Rajat Biswas",
-            "email": "biswas.rajat811@gmail.com"
+            "name": "Your Name",
+            "email": "your@name.com"
         }
     ],
     "minimum-stability": "dev",
