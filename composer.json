@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "dompdf/dompdf": "*",
+        "dompdf/dompdf": "*"
     }
 }
